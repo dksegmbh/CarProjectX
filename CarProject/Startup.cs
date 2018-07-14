@@ -18,6 +18,7 @@ namespace CarProject
     {
         public Startup(IConfiguration configuration)
         {
+            //---- Kommentar dk ----
             Configuration = configuration;
         }
 
